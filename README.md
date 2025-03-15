@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, I'm Pragna! 👋  
 
-<!--
-**PragnaPadma/PragnaPadma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Cloud Security, Computer Vision, and Software Engineering**  
+🎓 Studying at **Vardhaman College of Engineering**  
+💻 Certified **MongoDB Python Developer**  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+🔹 Python | Java | JavaScript  
+🔹 MongoDB | MySQL | PostgreSQL  
+🔹 Cloud Security | Machine Learning | Deep Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Work  
+🔹 Building a **Cloud Security Monitoring System** 🔐  
+🔹 Learning **Deep Learning & Model Deployment**  
+
