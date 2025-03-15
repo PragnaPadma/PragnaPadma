@@ -1,4 +1,4 @@
-#Hi there, I'm Pragna! 👋  
+Hi there, I'm Pragna! 👋  
 
 🚀 Passionate about **Cloud Security, Computer Vision, and Software Engineering**  
 🎓 Studying at **Vardhaman College of Engineering**  
